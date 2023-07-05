@@ -23,7 +23,7 @@ Por padrão, a execução do treinamento não mostrará nada visual além da men
 
 Dessa forma será aberta uma janela onde você poderá acompanhar o treinamento de forma visual.
 
-![Feedback visual do treinamento](https://gymnasium.farama.org/_images/taxi.gif)
+![Feedback visual do treinamento](treinamento.gif)
 
 Ainda no arquivo `treinamento.py`, você encontrará a variável `n_loops` que está com o valor de `100000` por padrão.
 
